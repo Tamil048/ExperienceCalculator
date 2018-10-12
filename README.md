@@ -6,3 +6,8 @@ https://www.raywenderlich.com/247-react-native-tutorial-building-android-apps-wi
 
 See the below one also
 https://inducesmile.com/facebook-react-native/how-to-setup-react-native-for-android-app-development-in-windows/
+
+
+https://www.npmjs.com/package/react-native-svg-charts
+
+https://stackoverflow.com/questions/44149921/broadcast-reciever-not-working-when-app-is-closed
