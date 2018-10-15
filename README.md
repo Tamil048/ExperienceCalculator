@@ -13,3 +13,5 @@ https://www.npmjs.com/package/react-native-svg-charts
 https://stackoverflow.com/questions/44149921/broadcast-reciever-not-working-when-app-is-closed
 
 https://stackoverflow.com/questions/47425668/alarm-manager-not-working-when-app-closed
+
+https://stackoverflow.com/questions/38995469/how-to-get-miui-security-app-auto-start-permission-programmatically
